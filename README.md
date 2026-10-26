@@ -1,26 +1,26 @@
- Hi, I'm Najma 👋
+# Hi, I'm Najma 👋
 
-💻 Meta-Verified Full-Stack Developer | Computer Science Graduate**
+💻 **Meta-Certified Full-Stack Developer**
 
-I'm a Computer Science graduate passionate about building web applications, learning new technologies, and solving real-world problems through code.
+I'm a software developer passionate about building web applications, solving real-world problems, and continuously improving my skills.
 
-- 🎓 Meta-verified and certified in Full-Stack Development.**
-- 🌱 Continuously strengthening my full-stack development skills.
+- 🏅 Meta Full-Stack Developer Certified
 - 💻 Working with HTML, CSS, JavaScript, React, Python, Django, and REST APIs.
-- 🚀 Building projects and coding every day.
-- 🤝 Open to collaborating on meaningful projects and development opportunities.
+- 🌱 Coding every day and learning new technologies.
+- 🚀 Building projects and turning ideas into reality.
+- 🤝 Open to collaboration and development opportunities.
 
- 🛠️ Technologies & Tools
+### 🛠️ Technologies & Tools
 
-Frontend: HTML5 · CSS3 · JavaScript · React
+**Frontend:** HTML · CSS · JavaScript · React
 
-Backend: Python · Django · Django REST Framework
+**Backend:** Python · Django · Django REST Framework
 
-Database: MySQL
+**Database:** MySQL
 
-Tools: Git · GitHub · VS Code
+**Tools:** Git · GitHub · VS Code
 
- 📌 Connect With Me
+### 📌 Connect With Me
 
 - GitHub: [@najmancm](https://github.com/najmancm)
 - LinkedIn: [@najmancm](https://www.linkedin.com/in/najmancm/)
